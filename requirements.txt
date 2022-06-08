@@ -1,0 +1,5 @@
+psycopg2~=2.8.6
+sqlalchemy~=1.4.32
+requests~=2.27.1
+xlsxwriter~=3.0.3
+setuptools~=61.2.0
