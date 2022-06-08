@@ -1,4 +1,5 @@
-import ETL
+import ETL.scripts
 
 if __name__ == '__main__':
-    exct = ETL.
+    exc = ETL.scripts
+

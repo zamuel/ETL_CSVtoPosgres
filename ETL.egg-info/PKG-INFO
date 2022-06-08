@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: ETL
+Version: 1.0
+Summary: Extract a .csv files for a zip and clean the data for storage on a postgres data base
+Author: Samuel Aguilar
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+
